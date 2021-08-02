@@ -27,8 +27,10 @@ Previously used map edits for DayZ
     }
 ```
 * Copy the below line and paste right after "DATE RESET AFTER ECONOMY INIT". Example Below
-* Traders();	
+```
+Traders();	
 //GetCEApi().ExportProxyData( "7500 0 7500", 10000 ); //Unhash on server startup for loot generation
+```
 
 ```
 //DATE RESET AFTER ECONOMY INIT-------------------------
