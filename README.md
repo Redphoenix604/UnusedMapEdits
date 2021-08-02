@@ -62,3 +62,4 @@ Traders();
 	//GetCEApi().ExportProxyData( "7500 0 7500", 10000 ); //Unhash on server startup for loot generation
 }
 ```
+* Save and start the server.
