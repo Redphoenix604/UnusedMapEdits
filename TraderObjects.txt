@@ -1,0 +1,28 @@
+// Dubrovka Trader:
+
+<TraderMarker> 			0 									// Trader ID 
+<TraderMarkerPosition>	10754.628906, 144.539261, 10790.561523 	// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<TraderMarkerSafezone>	250									// Safezone Radius
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	10751.996094, 144.326630, 10783.244141      
+<TraderMarkerSafezone>	250
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	10748.261719, 144.913559, 10800.630859      
+<TraderMarkerSafezone>	250
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	10744.217773, 144.992798, 10804.485352     
+<TraderMarkerSafezone>	250
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	10726.701172, 144.641525, 10785.360352     
+<TraderMarkerSafezone>	250
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	10736.252930, 144.464706, 10772.051758      
+<TraderMarkerSafezone>	250
+
+<VehicleSpawn>			10720.3,	142.661,	10773.6		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>	    -135.253235,          0, 		     0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
