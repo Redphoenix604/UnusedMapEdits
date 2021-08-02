@@ -67,6 +67,6 @@ Traders();
 }
 ```
 * Save your work.
-* Update your "TraderObjects.txt" file in your server profile to match.
+* Update your "TraderObjects.txt" file, from the one provided into your server profile to match.
 * Save again.
 * Start Server and test.
