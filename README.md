@@ -5,6 +5,9 @@ Previously used map edits for DayZ
 * Dubrovka gas station trader
 * NorthWest Airfield Black Market
 
+Dubrovka Trader: 
+![alt text](https://i.imgur.com/SXf1dfn.png "Dubrovka")
+
 ## Instructions (Not Expansion)
 * Inside "dayzOffline.chernarusplus" folder, Create a new folder called "Map_addons".
 * Paste "Traders.c" into the newly created Map_Addons folder.
