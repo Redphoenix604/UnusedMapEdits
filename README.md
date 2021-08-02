@@ -23,4 +23,4 @@ Previously used map edits for DayZ
             obj.SetAffectPathgraph(true, false);
             GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, obj);
         }
-    }```
+    }
