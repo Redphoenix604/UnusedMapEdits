@@ -3,6 +3,7 @@ Previously used map edits for DayZ
 
 * Biathlon Arena trader
 * Dubrovka gas station trader
+* NorthWest Airfield Black Market
 
 ## Instructions (Not Expansion)
 * Inside "dayzOffline.chernarusplus" folder, Create a new folder called "Map_addons".
