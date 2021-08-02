@@ -10,7 +10,8 @@ Previously used map edits for DayZ
 * Open your "Init.c" with Notepad++, or VisualStudio.
 * Copy the lines below and paste at the TOP of your Init.c
 
-``` #include "$CurrentDir:\\mpmissions\\dayzoffline.chernarusplus\\Map_addons\\Traders.c"
+``` 
+#include "$CurrentDir:\\mpmissions\\dayzoffline.chernarusplus\\Map_addons\\Traders.c"
   void SpawnObject(string objectName, vector position, vector orientation)
     {
         Object obj;
