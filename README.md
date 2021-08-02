@@ -31,7 +31,7 @@ Previously used map edits for DayZ
 Traders();	
 //GetCEApi().ExportProxyData( "7500 0 7500", 10000 ); //Unhash on server startup for loot generation
 ```
-#Example
+# Example
 ```
 //DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
